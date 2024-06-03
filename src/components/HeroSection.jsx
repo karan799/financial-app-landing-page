@@ -3,7 +3,7 @@ import '../style/HeroSection.css'
 
 export const HeroSection = () => {
   return (
-    <section class="hero-section">
+    <sdiv class="hero-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-7">
@@ -35,7 +35,7 @@ export const HeroSection = () => {
                 </div>
             </div>
         </div>
-    </section>
+    </sdiv>
   );
 };
 

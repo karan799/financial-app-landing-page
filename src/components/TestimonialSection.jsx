@@ -5,7 +5,7 @@ export const TestimonialSection = () => {
   const [current, setCurrent] = useState(2);
 
   return (
-    <section className="testimonial-section">
+    <div className="testimonial-section">
       <div className="container">
         <div className="section-header">
           <p>Testimonial</p>
@@ -46,7 +46,7 @@ export const TestimonialSection = () => {
           </div>
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 

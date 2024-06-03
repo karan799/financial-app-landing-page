@@ -2,7 +2,7 @@ import React from 'react';
 import '../style/AdvantagesSection.css'
 
 export const AdvantagesSection = () => (
-  <section class="advatnages-section">
+  <div class="advatnages-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -49,5 +49,5 @@ export const AdvantagesSection = () => (
                 </div>
             </div>
         </div>
-    </section>
+    </div>
 );
