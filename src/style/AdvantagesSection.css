@@ -1,0 +1,20 @@
+.advatnages-content {
+    margin-top: 160px;
+}
+.advatnages-content .section-header {
+    margin-bottom: 32px;
+}
+.advatnages-item-title {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 23px;
+}
+
+.advatnages-img {
+    position: relative;
+}
+.advatnages-img .red-circle {
+    bottom: 100px;
+    top: auto;
+}

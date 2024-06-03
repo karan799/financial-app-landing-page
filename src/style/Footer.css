@@ -1,0 +1,42 @@
+.footer-single-col {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: baseline;
+}
+.footer-single-col a:hover {
+    color: #FF5555;
+}
+.footer-contact {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.footer-form {
+    position: relative;
+    width: 100%;
+}
+.footer-form input {
+    padding: 28px 24px;
+    padding-right: 180px;
+    width: 100%;
+    border: none;
+}
+.footer-form input:focus {
+    outline: none;
+}
+.footer-form a {
+    padding: 16px 40px;
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 90px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    border-top: 1px solid #ddd;
+}

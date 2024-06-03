@@ -1,0 +1,22 @@
+.features-img {
+    position: relative;
+}
+.features-img .red-circle {
+    top: 20px;
+}
+.features-content {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 60px;
+}
+.features-item-title {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+    align-items: center;
+}
+.features-item-title h5 {
+    font-size: 18px;
+    line-height: 28px;
+}

@@ -1,0 +1,101 @@
+@font-face {
+    font-family: ClashDisplay;
+    src: url(../font/ClashDisplay-Variable.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: ClashDisplay;
+    box-sizing: border-box;
+}
+body {
+    color: #000;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 600;
+    margin-bottom: 0;
+}
+h2 {
+    font-size: 48px;
+    line-height: 48px;
+}
+h3 {
+    font-size: 28px;
+    line-height: 28px;
+}
+p {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 0;
+    line-height: 28px;
+}
+img {
+    max-width: 100%;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    color: #000000;
+    font-weight: 500;
+}
+.button {
+    color: #fff;
+    background-color: #000000;
+    padding: 16px 46px;
+    border-radius: 4px;
+    font-size: 18px;
+    line-height: 28px;
+    border: 2px solid transparent;
+}
+.button:hover {
+    border: 2px solid #000;
+    background-color: transparent;
+    color: #000;
+}
+.section-header p {
+    text-transform: uppercase;
+    color: #FF5555;
+}
+
+.button,
+.footer-single-col a {
+    transition: all .4s ease-in-out;
+}
+
+/* 
+Header Section Start
+*/
+
+
+/* 
+Hero Section Start
+*/
+
+
+/* 
+Features Section Start
+*/
+
+
+/* 
+Advatnages Section Start
+*/
+
+/* 
+Testimonial Section Start
+*/
+
+
+/* 
+FAQ Section Start
+*/
+
+/* 
+Download Section Start
+*/
+
+
+/* 
+Footer Section Start
+*/
+
