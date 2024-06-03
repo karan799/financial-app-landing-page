@@ -6,7 +6,7 @@ export const TestimonialSection = () => {
   const [peopleData, setPeopleData] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/people')
+    fetch('https://financial-app-landing-page.onrender.com/api/people')
       .then(response => response.json())
       .then(data => setPeopleData(data))
       .catch(error => console.error('Error fetching data:', error));
