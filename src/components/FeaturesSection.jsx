@@ -7,9 +7,9 @@ export const FeaturesSection = () => (
             <div class="row">
                 <div class="col-md-6">
                     <div class="features-img">
-                        <img src="img/features-phone.png" alt="Features Img"></img>
+                        <img src="/features-phone.png" alt="Features Img"></img>
                         <div class="red-circle">
-                            <img src="img/circle-rb.png" alt="Red"></img>
+                            <img src="/circle-rb.png" alt="Red"></img>
                         </div>
                     </div>
                 </div>
@@ -21,21 +21,21 @@ export const FeaturesSection = () => (
                         </div>
                         <div class="features-item">
                             <div class="features-item-title">
-                                <img src="img/icon1.png" alt="Icon"></img>
+                                <img src="/icon1.png" alt="Icon"></img>
                                 <h5>Budgeting Intervals</h5>
                             </div>
                             <p>Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.</p>
                         </div>
                         <div class="features-item">
                             <div class="features-item-title">
-                                <img src="img/icon2.png" alt="Icon"></img>
+                                <img src="/icon2.png" alt="Icon"></img>
                                 <h5>Budgeting Intervals</h5>
                             </div>
                             <p>Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.</p>
                         </div>
                         <div class="features-item">
                             <div class="features-item-title">
-                                <img src="img/icon3.png" alt="Icon"></img>
+                                <img src="/icon3.png" alt="Icon"></img>
                                 <h5>Budgeting Intervals</h5>
                             </div>
                             <p>Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.</p>

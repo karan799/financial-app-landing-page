@@ -11,8 +11,8 @@ export const Header = () => {
   return (
     <header className="header">
       <div className="container">
-        <nav className="navbar">
-          <a className="navbar-brand" href="#"><img src="img/logo.svg" alt="Logo" /></a>
+        <nav className="navbar navbar-expand-lg">
+          <a className="navbar-brand" href="#"><img src="/logo.svg" alt="Logo" /></a>
           <button 
             className="navbar-toggler" 
             type="button" 
@@ -23,8 +23,8 @@ export const Header = () => {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          <div className={`navbar-collapse ${isNavCollapsed ? 'collapse' : ''}`} id="navbarSupportedContent">
-            <ul className="navbar-nav">
+          <div className={`collapse navbar-collapse ${isNavCollapsed ? '' : 'show'}`} id="navbarSupportedContent">
+            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">Home</a>
               </li>

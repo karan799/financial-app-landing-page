@@ -7,13 +7,13 @@ export const Footer = () => (
       <div class="row">
           <div class="col-md-3">
               <div class="footer-single-col">
-                  <img src="img/logo.svg" alt="Footer Logo"></img>
+                  <img src="/logo.svg" alt="Footer Logo"></img>
                   <div class="footer-contact">
-                      <img src="img/gmail-icon.png" alt="Gmail"></img>
+                      <img src="/gmail-icon.png" alt="Gmail"></img>
                       <a href="#">2021kucp1120@iiitkota.ac.in</a>
                   </div>
                   <div class="footer-contact">
-                      <img src="img/phone-icon.png" alt="Gmail"></img>
+                      <img src="/phone-icon.png" alt="Gmail"></img>
                       <a href="#">7206511078</a>
                   </div>
               </div>

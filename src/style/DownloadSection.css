@@ -2,7 +2,7 @@
     padding: 155px 0;
 }
 .download-inner {
-    background-image: url(.././img/download-bg.jpg);
+    background-image: url(/download-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
